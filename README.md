@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Siddharth-Mohanty-308
-- 👀 I’m interested in coding and drawing
+- 👋 Hi, I’m @Siddharth-Mohanty-307
+- 👀 I want to be a data analyst
 - 🌱 I’m currently learning about git
 
 <!---
